@@ -1,0 +1,15 @@
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/bin/Debug/net8.0/third-project-dotnet
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/bin/Debug/net8.0/third-project-dotnet.deps.json
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/bin/Debug/net8.0/third-project-dotnet.runtimeconfig.json
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/bin/Debug/net8.0/third-project-dotnet.dll
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/bin/Debug/net8.0/third-project-dotnet.pdb
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/obj/Debug/net8.0/third-project-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/obj/Debug/net8.0/third-project-dotnet.AssemblyInfoInputs.cache
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/obj/Debug/net8.0/third-project-dotnet.AssemblyInfo.cs
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/obj/Debug/net8.0/third-project-dotnet.csproj.CoreCompileInputs.cache
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/obj/Debug/net8.0/third-project-dotnet.sourcelink.json
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/obj/Debug/net8.0/third-project-dotnet.dll
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/obj/Debug/net8.0/refint/third-project-dotnet.dll
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/obj/Debug/net8.0/third-project-dotnet.pdb
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/obj/Debug/net8.0/third-project-dotnet.genruntimeconfig.cache
+/Users/douglaswillian/Documents/Estudos/third-project-dotnet/obj/Debug/net8.0/ref/third-project-dotnet.dll
